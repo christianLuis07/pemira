@@ -51,7 +51,7 @@ class UsersTableSeeder extends Seeder
 
                 $tahunAjar = TahunAjar::create([
                     'id_tahun_ajar' => 'TA001',
-                    'tahun' => '2020/2021'
+                    'tahun' => '2025/2026'
                 ]);
 
                 $prodi = Prodi::create([
@@ -61,7 +61,8 @@ class UsersTableSeeder extends Seeder
 
                 $kelas = Kelas::create([
                     'id_kelas' => 'K001',
-                    'nama_kelas' => 'TI-1A'
+                    'nama_kelas' => 'TI-1A',
+                    'prodi_id' => 'P001'
                 ]);
 
 

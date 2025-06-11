@@ -23,9 +23,9 @@ class DetailUserSeeder extends Seeder
         $detailRegularUser = \App\Models\DetailUser::create([
             'user_id' => '2',
             'nama_pemilih' => 'Regular User',
-            'kelas_id' => null,
-            'prodi_id' => null,
-            'tahun_ajar_id' => null,
+            'kelas_id' => "K001",
+            'prodi_id' => "P001",
+            'tahun_ajar_id' => "TA001",
         ]);
     }
 }
