@@ -105,7 +105,7 @@
                     <div class="max-w-sm">
                         <p class="font-bold text-2xl text-blue-800 mb-4">Tahukah kamu?</p>
                         <p class="text-blue-800">
-                            PEMIRA ini sudah diatur di dalam Undang-Undang PEMIRA, Ayoo!! scan barcode tersebut untuk lebih mengetahui tentang Peraturan Pelaksanaan PEMIRA PNC 2025
+                            PEMIRA ini sudah diatur di dalam Undang-Undang PEMIRA, Ayoo!! scan barcode tersebut untuk lebih mengetahui tentang Peraturan Pelaksanaan PEMIRA PNC 2023
                         </p>
                     </div>
                 </div>
